@@ -19,7 +19,13 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=vim,git,linux,nginx,docker,kubernetes,jenkins,bash,vscode&theme=dark)](https://skills.thijs.gg)
 
-![Tawanda's Stats](https://github-readme-stats.vercel.app/api?username=TawandaMavondo&show_icons=true&theme=radical)
+### Stats
+
+![Tawanda's Stats](https://github-readme-stats.vercel.app/api?username=TawandaMavondo&show_icons=true&theme=radical&count_private=true)
+
+### My Top Languanges
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TawandaMavondo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 TawandaMavondo/TawandaMavondo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
